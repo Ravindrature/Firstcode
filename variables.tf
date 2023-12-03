@@ -1,2 +1,11 @@
-# You can define variables here if needed
-# For simplicity, none are defined in this example
+variable "location" {
+  default = "West US"
+}
+
+variable "username" {
+  default = "ravinadmin"
+}
+
+variable "password" {
+  default = "Ravin@2023!"
+}

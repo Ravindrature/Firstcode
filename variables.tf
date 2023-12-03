@@ -9,3 +9,4 @@ variable "username" {
 variable "password" {
   default = "Ravin@2023!"
 }
+
